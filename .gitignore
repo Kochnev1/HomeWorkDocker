@@ -10,7 +10,6 @@ build
 .idea/jarRepositories.xml
 .idea/compiler.xml
 .idea/libraries/
-img.png
 *.iws
 *.iml
 *.ipr
@@ -42,6 +41,7 @@ bin
 
 ### Mac OS ###
 .DS_Store
+img.png
 data
 gradle
 src
